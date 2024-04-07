@@ -1,0 +1,23 @@
+go 1.22.1
+
+use (
+	./abstractfactory
+	./adaptor
+	./bridge
+	./builder
+	./chain_responsability
+	./command
+	./composite
+	./decorator
+	./facade
+	./factory
+	./proxy
+	./singleton
+	./mediator
+	./memento
+	./observer
+	./visitor
+	./strategy
+	./state
+
+)
